@@ -41,7 +41,12 @@ export default {
 </script>
 
 <style>
+body {
+  background-color: aquamarine;
+}
+
 #app1 {
+  background-color: rgba(59, 147, 241, 0.3);
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
